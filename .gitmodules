@@ -1,0 +1,93 @@
+[submodule "JavaScript-Laps"]
+	path = JavaScript-Laps
+	url = https://github.com/minanagib112/JavaScript-Laps
+[submodule "JavaScript-Lap-2"]
+	path = JavaScript-Lap-2
+	url = https://github.com/minanagib112/JavaScript-Lap-2
+[submodule "Workshop-Javascript"]
+	path = Workshop-Javascript
+	url = https://github.com/minanagib112/Workshop-Javascript
+[submodule "JavaScript-Lap-4"]
+	path = JavaScript-Lap-4
+	url = https://github.com/minanagib112/JavaScript-Lap-4
+[submodule "JavaScript-Lap-5"]
+	path = JavaScript-Lap-5
+	url = https://github.com/minanagib112/JavaScript-Lap-5
+[submodule "image-slider"]
+	path = image-slider
+	url = https://github.com/minanagib112/image-slider
+[submodule "Login-page-"]
+	path = Login-page-
+	url = https://github.com/minanagib112/Login-page-
+[submodule "Ajax-Task"]
+	path = Ajax-Task
+	url = https://github.com/minanagib112/Ajax-Task
+[submodule "OOP-Js-"]
+	path = OOP-Js-
+	url = https://github.com/minanagib112/OOP-Js-
+[submodule "Git-Task"]
+	path = Git-Task
+	url = https://github.com/minanagib112/Git-Task
+[submodule "HTML5-Task-SVG-Animated-Line"]
+	path = HTML5-Task-SVG-Animated-Line
+	url = https://github.com/minanagib112/HTML5-Task-SVG-Animated-Line
+[submodule "Triangle-SVG-MathML"]
+	path = Triangle-SVG-MathML
+	url = https://github.com/minanagib112/Triangle-SVG-MathML
+[submodule "ColorChange"]
+	path = ColorChange
+	url = https://github.com/minanagib112/ColorChange
+[submodule "Geoloaction"]
+	path = Geoloaction
+	url = https://github.com/minanagib112/Geoloaction
+[submodule "web-workers"]
+	path = web-workers
+	url = https://github.com/minanagib112/web-workers
+[submodule "local-storage"]
+	path = local-storage
+	url = https://github.com/minanagib112/local-storage
+[submodule "CSS-3-Task-1"]
+	path = CSS-3-Task-1
+	url = https://github.com/minanagib112/CSS-3-Task-1
+[submodule "HTML-5-CSS-3-Form-Validation"]
+	path = HTML-5-CSS-3-Form-Validation
+	url = https://github.com/minanagib112/HTML-5-CSS-3-Form-Validation
+[submodule "JQuery-Image-Slider"]
+	path = JQuery-Image-Slider
+	url = https://github.com/minanagib112/JQuery-Image-Slider
+[submodule "JQuery-SliderUpDown"]
+	path = JQuery-SliderUpDown
+	url = https://github.com/minanagib112/JQuery-SliderUpDown
+[submodule "Drag-drop-jquery"]
+	path = Drag-drop-jquery
+	url = https://github.com/minanagib112/Drag-drop-jquery
+[submodule "Ajax-with-Jquery"]
+	path = Ajax-with-Jquery
+	url = https://github.com/minanagib112/Ajax-with-Jquery
+[submodule "FlexBox---Grid---MediaQuery"]
+	path = FlexBox---Grid---MediaQuery
+	url = https://github.com/minanagib112/FlexBox---Grid---MediaQuery
+[submodule "Bootstrap-5-Lab"]
+	path = Bootstrap-5-Lab
+	url = https://github.com/minanagib112/Bootstrap-5-Lab
+[submodule "Laravel-Lab-4"]
+	path = Laravel-Lab-4
+	url = https://github.com/minanagib112/Laravel-Lab-4
+[submodule "NodeJs-Lab3"]
+	path = NodeJs-Lab3
+	url = https://github.com/minanagib112/NodeJs-Lab3
+[submodule "ReactLab1"]
+	path = ReactLab1
+	url = https://github.com/minanagib112/ReactLab1
+[submodule "ReactLab2"]
+	path = ReactLab2
+	url = https://github.com/minanagib112/ReactLab2
+[submodule "ReactLab3"]
+	path = ReactLab3
+	url = https://github.com/minanagib112/ReactLab3
+[submodule "ReactLab4"]
+	path = ReactLab4
+	url = https://github.com/minanagib112/ReactLab4
+[submodule "UnitTestingLab"]
+	path = UnitTestingLab
+	url = https://github.com/minanagib112/UnitTestingLab
